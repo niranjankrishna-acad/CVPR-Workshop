@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+cifar10
+data
+data2
+long_tail
+mnist
 # C extensions
 *.so
 
